@@ -1,0 +1,2 @@
+- job portal feature
+- used to post jobs and for conducting job fairs
