@@ -1,4 +1,4 @@
 - adding extra line of code
 - new feature integrated to lms app 
 - feature is about class docs
-- docs issue fixed, we are going to get them from drive
+- docs to get them from drive
